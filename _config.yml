@@ -3,7 +3,8 @@ theme: minima
 title: PS's Blog
 author: Pyoung Seo
 email: seop99@snu.ac.kr
-url: https://PyoungSeo.net
+url: https://PyoungSeo.github.io
+
 
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
@@ -13,8 +14,8 @@ description: >
 
 # Minima variables
 twitter_username:  chad_baldwin
-github_username:   chadbaldwin
-linkedin_username: chadbaldwin
+github_username:   PyoungSeo
+linkedin_username: Pyoung-Seo
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -28,17 +29,17 @@ show_excerpts: false
 
 # Used by simple links page
 social-links:
-  Resume:          /resume
-  LinkedIn:        https://linkedin.com/in/chadbaldwin
-  StackOverflow:   https://stackoverflow.com/users/3474677
-  HackerRank:      https://hackerrank.com/chadwin
+  #Resume:          /resume
+  LinkedIn:        www.linkedin.com/in/Pyoung-Seo
+  #StackOverflow:   https://stackoverflow.com/users/3474677
+  #HackerRank:      https://hackerrank.com/chadwin
   GitHub:          https://github.com/chadbaldwin
-  Microsoft Learn: https://learn.microsoft.com/en-us/users/chadbaldwin/transcript/v0ylxf6nq5l8ny8
-  Twitter:         https://twitter.com/chad_baldwin
-  Reddit:          https://reddit.com/user/chadbaldwin
-  Credly:          https://credly.com/users/chadbaldwin
-  PluralSight:     https://app.pluralsight.com/profile/chadbaldwin
-  Website:         /
+  #Microsoft Learn: https://learn.microsoft.com/en-us/users/chadbaldwin/transcript/v0ylxf6nq5l8ny8
+  #Twitter:         https://twitter.com/chad_baldwin
+  #Reddit:          https://reddit.com/user/chadbaldwin
+  #Credly:          https://credly.com/users/chadbaldwin
+  #PluralSight:     https://app.pluralsight.com/profile/chadbaldwin
+  #Website:         /
 
 # plugin: jekyll-seo-tag
 twitter:
